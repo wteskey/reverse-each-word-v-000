@@ -2,5 +2,6 @@ def reverse_each_word(sentence)
   array = []
   reveresed array = []
   array = sentence.split
-  array.each do 
+  array.each do [x]
+  
   
